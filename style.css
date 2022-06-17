@@ -1,0 +1,9 @@
+html,
+body {
+    background-color: fuchsia;
+}
+
+#tle {
+    color: aquamarine;
+    text-align: center;
+}
